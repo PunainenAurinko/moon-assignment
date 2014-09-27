@@ -38,7 +38,8 @@ body{
 	background-color: #222;
 }
 h1, h2, h3, h4{
-	font-family:serif;  /* you need a font stack here */
+	font-family: "Droid Serif", "Georgia", "Hoefler Text", "Palatino", "Baskerville", "Times New Roman", serif;
+    /* you need a font stack here */
 }
 h1{
 	
@@ -53,7 +54,7 @@ h4{
 	
 }
 p, li, a{
-	font-family: sans-serif; /* you need a font stack here */
+	font-family: "Droid Sans", "Frutiger", "Calibri", "Helvetica",  "Trebuchet MS", "Arial", sans-serif; /* you need a font stack here */
 }
 img{
 	width:90%;
