@@ -39,6 +39,7 @@ body{
 }
 h1, h2, h3, h4{
 	font-family: "Droid Serif", "Georgia", "Hoefler Text", "Palatino", "Baskerville", "Times New Roman", serif;
+    text-shadow: 1px 1px 3px rgba(150, 150, 150, 1);
     /* you need a font stack here */
 }
 h1{
