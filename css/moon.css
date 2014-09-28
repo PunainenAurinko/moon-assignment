@@ -36,7 +36,6 @@ plus the shadow for the text
 ***********************************/
 body{
 	background-color: #222;
-    
 }
 h1, h2, h3, h4{
 	font-family: 'Droid Serif', 'Palatino', 'Hoefler Text', 'Baskerville', 'Georgia', 'Times New Roman', serif;
@@ -91,6 +90,11 @@ a:hover, a:active, a:focus{
 .header{
 	background-color: #000;
     min-height: 400px;
+    background-image: url('../img/moon-header.jpg');
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: right top;
 }
 .main{
 	text-align: justify;
