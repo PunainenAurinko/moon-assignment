@@ -93,7 +93,9 @@ a:hover, a:active, a:focus{
     min-height: 400px;
 }
 .main{
-	
+	text-align: justify;
+    padding: 1rem;
+    margin: 1rem;
 }
 .footer{
 	
