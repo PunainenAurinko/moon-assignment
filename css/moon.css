@@ -94,7 +94,7 @@ a:hover, a:active, a:focus{
     width: 100%;
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-position: right -100%;
+    background-position: 55% -100%;
 }
 .main{
 	text-align: justify;
