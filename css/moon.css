@@ -160,6 +160,7 @@ a:hover, a:active, a:focus{
 .footer p{
     clear: left;
     color: #fff;
+    font-size: 1.236rem;
     padding: 0.50rem 2rem;
     margin: 0.50rem 2rem;    
 }
