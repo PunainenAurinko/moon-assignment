@@ -41,6 +41,8 @@ h1, h2, h3, h4{
 	font-family: 'Droid Serif', 'Palatino', 'Hoefler Text', 'Baskerville', 'Georgia', 'Times New Roman', serif;
     text-shadow: 1px 1px 3px rgba(150, 150, 150, 1);
     /* you need a font stack here */
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
 }
 h1{
 	font-size: 6.854rem;
