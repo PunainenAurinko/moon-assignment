@@ -137,6 +137,10 @@ a:hover, a:active, a:focus{
 }
 .main p{
 	color: #000;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    letter-spacing: inherit;
+    line-height: 150%;
 }
 .main img{
 	/* use border-radius to crop image */
