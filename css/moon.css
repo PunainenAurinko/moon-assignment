@@ -98,8 +98,7 @@ a:hover, a:active, a:focus{
     background-image: url('../img/moon-header.jpg');
     width: 100%;
     background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: 55% -100%;
+    background-position: 110% 0%;
 }
 .main{
 	text-align: justify;
