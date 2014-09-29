@@ -124,6 +124,9 @@ a:hover, a:active, a:focus{
 .footer a:active,
 .footer a:focus{
 	text-shadow: 1px 1px 3px rgba(150, 150, 150, 1);
+    cursor: pointer;
+    transition: padding-left 500ms ease-out;
+    padding-left: 2rem; 
 }
 
 /***********************************
