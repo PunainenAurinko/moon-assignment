@@ -75,9 +75,11 @@ ul{
 }
 a:link, a:visited{
 	transition: all 0.8s linear;
+    color: #CC3300;
 }
 a:hover, a:active, a:focus{
 	text-decoration: none;
+    color: #BADA55;
 }
 
 /***********************************
@@ -121,9 +123,8 @@ a:hover, a:active, a:focus{
 .footer a:hover,
 .footer a:active,
 .footer a:focus{
-	
+	text-shadow: 1px 1px 3px rgba(150, 150, 150, 1);
 }
-
 
 /***********************************
 		CONTENT
