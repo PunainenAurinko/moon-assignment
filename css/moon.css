@@ -71,7 +71,7 @@ img{
 }
 ul{
 	list-style-type: none;
-    padding-left: 4rem;
+    padding-left: 7%;
 }
 a:link, a:visited{
 	transition: all 0.8s linear;
@@ -98,7 +98,7 @@ a:hover, a:active, a:focus{
     background-image: url('../img/moon-header.jpg');
     width: 100%;
     background-repeat: no-repeat;
-    background-position: 110% 0%;
+    background-position: 90% -30%;
 }
 .main{
 	text-align: justify;
