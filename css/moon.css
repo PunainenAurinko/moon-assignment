@@ -71,7 +71,6 @@ img{
 }
 ul{
 	list-style-type: none;
-    padding-left: 5%;
 }
 a:link, a:visited{
 	transition: all 0.8s linear;
@@ -107,6 +106,7 @@ a:hover, a:active, a:focus{
 }
 .footer{
     background-color: #333;
+    padding-left: 7%;
 }
 
 /***********************************
@@ -162,9 +162,7 @@ a:hover, a:active, a:focus{
 .footer p{
     clear: left;
     color: #fff;
-    font-size: 1.236rem;
-    padding: 0.50rem 2rem;
-    margin: 0.50rem 2rem;    
+    
 }
 .footer li{
     /* make these 50% the width of the footer */
