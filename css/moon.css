@@ -71,7 +71,7 @@ img{
 }
 ul{
 	list-style-type: none;
-    
+    padding-left: 4rem;
 }
 a:link, a:visited{
 	transition: all 0.8s linear;
