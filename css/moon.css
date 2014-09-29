@@ -169,7 +169,7 @@ a:hover, a:active, a:focus{
 .footer li{
     /* make these 50% the width of the footer */
     float: left;
-    width: 35%;
+    width: 30%;
     padding: 0.50rem 2rem;
     margin: 0.50rem 2rem;
 }
