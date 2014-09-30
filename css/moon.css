@@ -1,4 +1,4 @@
-@charset 'utf-8';
+@charset "utf-8";
 
 /***********************************
 		REFERENCES
@@ -27,8 +27,8 @@ plus the shadow for the text
 ***********************************/
 
 *{
-	padding:0;
-	margin:0;
+	padding: 0;
+	margin: 0;
 }
 
 /***********************************
@@ -55,10 +55,7 @@ h2{
 h3{
 	font-size: 2.618rem;
     color: #CC3300;
-}
-h4{
-	
-}
+
 p, li, a{
 	font-family: 'Droid Sans', 'Frutiger', 'Calibri', 'Helvetica', 'Trebuchet MS', 'Arial', sans-serif; 
     /* you need a font stack here */
@@ -117,7 +114,6 @@ a:hover, a:active, a:focus{
 .footer a:link,
 .footer a:visited{
 	display: block;
-	
 }
 .footer a:hover,
 .footer a:active,
@@ -149,9 +145,7 @@ a:hover, a:active, a:focus{
     line-height: 150%;
 }
 .main img{
-	/* use border-radius to crop image */
-	/* choose a width percentage for the image too */
-    border-radius: 35%;
+	border-radius: 35%;
     width: 35%;
 }
 .left{
@@ -164,7 +158,6 @@ a:hover, a:active, a:focus{
     color: #fff;
 }
 .footer li{
-    /* make these 50% the width of the footer */
     float: left;
     width: 30%;
     padding: 0.50rem 2rem;
