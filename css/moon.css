@@ -55,6 +55,7 @@ h2{
 h3{
 	font-size: 2.618rem;
     color: #CC3300;
+}
 
 p, li, a{
 	font-family: 'Droid Sans', 'Frutiger', 'Calibri', 'Helvetica', 'Trebuchet MS', 'Arial', sans-serif; 
@@ -94,7 +95,7 @@ a:hover, a:active, a:focus{
     background-image: url('../img/moon-header.jpg');
     width: 100%;
     background-repeat: no-repeat;
-    background-position: 90% -30%;
+    background-position: 110% 0%;
 }
 .main{
 	text-align: justify;
