@@ -98,8 +98,7 @@ a:hover, a:active, a:focus{
     background-position: 110% 0%;
 }
 .main{
-	text-align: justify;
-    padding: 0.25rem 1.5rem;
+	padding: 0.25rem 1.5rem;
     margin: 0.25rem 1.5rem;
 }
 .footer{
@@ -144,6 +143,7 @@ a:hover, a:active, a:focus{
     padding: 0.5rem;
     letter-spacing: inherit;
     line-height: 150%;
+    text-align: justify;
 }
 .main img{
 	border-radius: 35%;
